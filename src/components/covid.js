@@ -17,8 +17,8 @@ const Covid = () => {
     <>
       <div className="container">
         <div className="main_heading">
-          <h2 className="mb-5 center">
-            <span className="bold">India</span> Covid-19 Dashboard - Statewise
+          <h2 className="center">
+            <span>INDIA</span> Covid-19 Dashboard - Statewise
           </h2>
         </div>
         <div className="responsive-table">
